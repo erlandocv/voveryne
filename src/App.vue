@@ -4,7 +4,7 @@
       <v-content class="fill-height" fluid>
         <router-view />
       </v-content>
-      <v-bottom-navigation app color="deep-purple accent-4" :value="activeBtn">
+      <v-bottom-navigation grow shift app color="deep-purple accent-4" :value="activeBtn">
         <v-btn value="Kontaktai" to="/Kontaktai">
           <span>Kontaktai</span>
           <v-icon>contacts</v-icon>
@@ -16,6 +16,7 @@
         </v-btn>
 
         <v-btn value="Pagrindinis" to="/">
+          <span>Pradinis</span>
           <v-icon>home</v-icon>
         </v-btn>
 
