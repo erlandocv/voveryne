@@ -1,29 +1,15 @@
 # voveryne
 
-## Project setup
+## About this project
+
+For this project I rewrote original Voveryne.lt website in Vue, whilst keeping as most of its original design. Website is made using Vue & Vuetify.
+
+### How to run
+
 ```
-npm install
+1. npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+2. npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
