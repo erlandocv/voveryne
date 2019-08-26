@@ -4,7 +4,7 @@
       <v-content class="fill-height" fluid>
         <router-view />
       </v-content>
-      <v-bottom-navigation horizontal app color="deep-purple accent-4" :value="activeBtn">
+      <v-bottom-navigation app color="deep-purple accent-4" :value="activeBtn">
         <v-btn value="Kontaktai" to="/Kontaktai">
           <span>Kontaktai</span>
           <v-icon>contacts</v-icon>
