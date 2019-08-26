@@ -15,6 +15,10 @@
           <v-icon>spa</v-icon>
         </v-btn>
 
+        <v-btn value="Pagrindinis" to="/">
+          <v-icon>home</v-icon>
+        </v-btn>
+
         <v-btn value="Veikla" to="/Veikla">
           <span>Veikla</span>
           <v-icon>all_inclusive</v-icon>
