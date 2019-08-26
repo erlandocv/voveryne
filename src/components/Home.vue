@@ -17,8 +17,7 @@ export default {
       images: {
         image1: require("../assets/photos/22.jpg"),
         logo1: require("../assets/logo/logo@1.png"),
-        logo2: require("../assets/logo/logo@2x.png"),
-        logo05: require("../assets/logo/logo@0,5x.png")
+        logo2: require("../assets/logo/logo@2x.png")
       }
     };
   }

@@ -32,7 +32,7 @@ export default {
   data() {
     return {
       images: {
-        image1: require("../assets/photos/46.jpg")
+        image1: require("../assets/photos/26.jpg")
       }
     };
   }

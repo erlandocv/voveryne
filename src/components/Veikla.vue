@@ -14,8 +14,8 @@
           </v-container>
         </v-img>
       </v-card>
-      <v-row>
-        <v-col v-for="(card) in cards">
+      <v-row v-for="(card) in cards">
+        <v-col>
           <v-hover v-slot:default="{ hover}">
             <v-card
               height="100%"
