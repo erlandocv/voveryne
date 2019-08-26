@@ -1,7 +1,7 @@
 <template>
   <v-app style="background-color: rgb(170, 185, 186);">
     <v-content>
-      <v-container class="fill-height" fluid>
+      <v-container class="pa-2" fluid>
         <v-img mx-auto :src="images.image1" max-height="760" contain>
           <v-container class="fill-height" fluid>
             <v-row align="center" justify="center">
